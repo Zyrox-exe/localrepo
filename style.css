@@ -1,3 +1,4 @@
+@import url('hoover.css');
 body{background-color: black;
     background: linear-gradient(rgb(35, 35, 36),black);}
 /* background-attachment: fixed;} */
