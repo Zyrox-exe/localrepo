@@ -1,4 +1,4 @@
-@import url('/fonts/Hoover_Complete/Fonts/WEB/css/hoover.css');
+@import url('fonts/Hoover_Complete/Fonts/WEB/css/hoover.css');
 body{background-color: black;
     background: linear-gradient(rgb(35, 35, 36),black);}
 /* background-attachment: fixed;} */
