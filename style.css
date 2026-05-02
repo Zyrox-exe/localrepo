@@ -1,0 +1,18 @@
+body{background-color: black;
+    background: linear-gradient(rgb(35, 35, 36),black);}
+/* background-attachment: fixed;} */
+
+#heading{color:lime; font-family: "Press Start 2P";}
+
+
+/* #p1 {color:brown;} */
+
+h3 {color:coral; font-family: "Hoover-Regular";}
+
+h2 {color:cyan; font-family: "Hoover-Regular";}
+
+p {color:white;}
+
+
+#links{color:aquamarine; font-family: "Hoover-Bold";}
+
